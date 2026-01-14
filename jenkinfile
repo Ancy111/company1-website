@@ -24,4 +24,5 @@ pipeline {
         bat "docker run -d -p 8070:80 company-1website"
       }
     }
-  
+  }
+}
